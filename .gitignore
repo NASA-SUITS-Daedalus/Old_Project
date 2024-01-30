@@ -1,0 +1,8 @@
+# Ignore the builds
+USING_NASA_SUITS-Copy-520_BasicBuild/Builds/*
+
+# Don't import the library (it's regenerated every time the project is played)
+USING_NASA_SUITS-Copy-520_BasicBuild/Library/*
+
+# Don't import temp files
+USING_NASA_SUITS-Copy-520_BasicBuild/Temp/*

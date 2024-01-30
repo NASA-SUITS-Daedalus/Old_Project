@@ -1,0 +1,28 @@
+{
+    "name": "suits.tss",
+    "version": "2.0.2",
+    "displayName": "SUITS TSS Unity",
+    "description": "A package to simplify connecting with the TSS.",
+    "unity": "2021.3",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+      "com.endel.nativewebsocket": "1.1.4"
+   },
+   "keywords": [
+      "TSS",
+      "suits",
+      "websockets"
+    ],
+    "hideInEditor": false,
+    "samples": [
+      {
+        "displayName": "SampleTSSScene",
+        "description": "A sample scene which allows connecting over ws and reading incoming messages",
+        "path": "Samples~/SampleTSSScene"
+      }
+    ]
+  }
+  
